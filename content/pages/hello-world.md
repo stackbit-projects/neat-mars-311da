@@ -1,6 +1,6 @@
 ---
 title: Hello world
-subtitle: lorem-ipsum
+subtitle: test
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
